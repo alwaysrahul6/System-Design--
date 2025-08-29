@@ -10,4 +10,4 @@ public class FireUp extends CharacterDecorator{
     public String getDetail() {
         return character.getDetail() + "Fire Up Mario";
     }
-}
+}.  
