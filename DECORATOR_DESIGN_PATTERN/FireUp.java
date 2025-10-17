@@ -9,5 +9,5 @@ public class FireUp extends CharacterDecorator{
     @Override
     public String getDetail() {
         return character.getDetail() + "Fire Up Mario";
-    }
+    } 
 }
