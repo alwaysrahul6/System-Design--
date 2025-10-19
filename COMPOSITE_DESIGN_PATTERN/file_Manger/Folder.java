@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.COMPOSITE_DESIGN_PATTERN.file_Manger;
+hupackage DESIGN_PATTERN.COMPOSITE_DESIGN_PATTERN.file_Manger;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -67,5 +67,5 @@ public class Folder implements File_Manger{
                 System.out.println(indentSpace + child.getName());
             }
         }
-    }
+    } 
 }
