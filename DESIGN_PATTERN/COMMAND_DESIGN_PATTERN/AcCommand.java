@@ -1,7 +1,7 @@
 package DESIGN_PATTERN.COMMAND_DESIGN_PATTERN;
 
 public class AcCommand implements Command{
-
+  
     private Ac ac;
 
     public AcCommand(Ac a){
@@ -19,3 +19,4 @@ public class AcCommand implements Command{
     ac.Off();
     }
 }
+
