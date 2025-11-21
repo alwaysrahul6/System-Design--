@@ -1,4 +1,4 @@
-package SOLID_DESIGN_PRINCIPLE.ISP;
+package SOLID_DESIGN_PRINCIPLE.ISP;  
 
 public class ISP_VIOLATED {
     interface Machine{
@@ -31,3 +31,4 @@ public class ISP_VIOLATED {
         printer.fax();  /// Error Throw ---..UnsupportedOperationException: old printer cant support a fax services
     }
 }
+
