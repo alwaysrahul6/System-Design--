@@ -6,6 +6,6 @@ abstract class CharacterDecorator implements Character {
 
 
     public CharacterDecorator( Character character){
-        this.character = character;
+        this.character = character;  
     }
 }. 
